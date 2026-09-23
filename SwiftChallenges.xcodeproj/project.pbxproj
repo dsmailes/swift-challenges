@@ -235,6 +235,7 @@
 		28D3B92AA5593E8A0F225308 /* C08_EnumAssociatedValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C08_EnumAssociatedValues.swift; sourceTree = "<group>"; };
 		2BE5B5AB54DD345671E20555 /* C16_Defer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C16_Defer.swift; sourceTree = "<group>"; };
 		2C6241609EB5220BA7B10512 /* C01_NilCoalescing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C01_NilCoalescing.swift; sourceTree = "<group>"; };
+		2CD2F9E51A613C1CADF7AB2F /* LICENSE */ = {isa = PBXFileReference; path = LICENSE; sourceTree = "<group>"; };
 		2F07FCB1C95B1618DF330CCE /* C57_GCD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C57_GCD.swift; sourceTree = "<group>"; };
 		2FEF8FC5532C888210E2CD8E /* C54_UserDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C54_UserDefaults.swift; sourceTree = "<group>"; };
 		3063FDF699BE6F82128087E1 /* C66_AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C66_AsyncAwait.swift; sourceTree = "<group>"; };
@@ -586,6 +587,7 @@
 		678B8A6FECC2E9B1D155A308 = {
 			isa = PBXGroup;
 			children = (
+				2CD2F9E51A613C1CADF7AB2F /* LICENSE */,
 				C40013D249C52A9660C71F6C /* README.md */,
 				B3882C2C1DDD522D03635C4D /* Challenges */,
 				E9C0D12505997E15DD6BF0F2 /* Solutions */,

@@ -200,3 +200,12 @@ would you recommend?", "Have you ever filed bugs with Apple?"), or cover UI
 work that unit tests can't check well (storyboards, segues, shadows, size
 classes). These aren't included as coding challenges, but they're still worth
 preparing answers for.
+
+## License
+
+All code, tests, solutions and challenge text in this repository are original
+and released under the [MIT License](LICENSE).
+
+The interview question titles quoted in the challenge headers are taken from
+[Hacking with Swift](https://www.hackingwithswift.com/interview-questions) by
+Paul Hudson and remain his. The MIT License doesn't cover them.
